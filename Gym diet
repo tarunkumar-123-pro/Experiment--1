@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Gym Food Diet Plan</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f4f4f4;
+      margin: 0;
+      padding: 0;
+    }
+    header {
+      background: #2c3e50;
+      color: white;
+      padding: 20px 0;
+      text-align: center;
+    }
+    main {
+      padding: 20px;
+      max-width: 900px;
+      margin: auto;
+      background: white;
+    }
+    h2 {
+      color: #2c3e50;
+    }
+    ul, ol {
+      padding-left: 20px;
+    }
+    .meal-section {
+      margin-bottom: 30px;
+    }
+    footer {
+      text-align: center;
+      padding: 15px;
+      background: #2c3e50;
+      color: white;
+      margin-top: 40px;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Gym Food Diet Plan</h1>
+    <p>Eat Right. Train Hard. Stay Fit.</p>
+  </header>
+
+  <main>
+    <section class="meal-section">
+      <h2>🍳 Breakfast</h2>
+      <ul>
+        <li>Oatmeal with bananas and almonds</li>
+        <li>4 boiled egg whites + 1 whole egg</li>
+        <li>Black coffee or green tea</li>
+      </ul>
+    </section>
+
+    <section class="meal-section">
+      <h2>🍗 Lunch</h2>
+      <ul>
+        <li>Grilled chicken breast or tofu</li>
+        <li>Brown rice or quinoa</li>
+        <li>Steamed vegetables (broccoli, spinach, carrots)</li>
+      </ul>
+    </section>
+
+    <section class="meal-section">
+      <h2>🥤 Pre-Workout Snack</h2>
+      <ul>
+        <li>Banana or apple</li>
+        <li>Peanut butter toast</li>
+        <li>Whey protein shake (optional)</li>
+      </ul>
+    </section>
+
+    <section class="meal-section">
+      <h2>🥩 Post-Workout Meal</h2>
+      <ul>
+        <li>Whey protein shake</li>
+        <li>Boiled eggs or grilled fish</li>
+        <li>Sweet potato or brown rice</li>
+      </ul>
+    </section>
+
+    <section class="meal-section">
+      <h2>🥗 Dinner</h2>
+      <ul>
+        <li>Grilled salmon or cottage cheese</li>
+        <li>Green salad with olive oil</li>
+        <li>Vegetable soup (optional)</li>
+      </ul>
+    </section>
+
+    <section>
+      <h2>💡 Diet Tips</h2>
+      <ol>
+        <li>Drink at least 3-4 liters of water daily.</li>
+        <li>Eat every 2-3 hours to maintain metabolism.</li>
+        <li>Avoid processed foods and added sugars.</li>
+        <li>Prioritize protein intake in every meal.</li>
+        <li>Include healthy fats (nuts, olive oil, avocado).</li>
+      </ol>
+    </section>
+
+    <section>
+      <h2>✅ Recommended Foods</h2>
+      <ul>
+        <li>Lean meats (chicken, turkey, fish)</li>
+        <li>Eggs and dairy</li>
+        <li>Whole grains (brown rice, oats, quinoa)</li>
+        <li>Legumes and beans</li>
+        <li>Leafy greens and colorful vegetables</li>
+        <li>Fruits (in moderation)</li>
+        <li>Healthy fats (nuts, seeds, olive oil)</li>
+      </ul>
+    </section>
+  </main>
+
+  <footer>
+    <p>&copy; 2025 GymFuel. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
